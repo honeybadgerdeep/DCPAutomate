@@ -49,3 +49,7 @@ In order to complete this project, here is the suggested flow:
 # Current Progress
 1. The I/O flow has been built in `script.sh`
 2. Figured out how to interface with the Gmail API and have tokens and other essential information saved.
+3. Successfully accessed and parsed a target email from the Gmail inbox.
+4. Designing a database to locally store problems so that the query isn't so big everytime a connection is made to Gmail.
+- Elected to using SQL for database management, the structure is pretty simple and a table format should make for easy data entry and access.
+- A Promise mechanism must be utilized to pull the sheer of volume of emails from Gmail without stalling.
