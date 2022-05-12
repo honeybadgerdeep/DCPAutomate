@@ -1,6 +1,12 @@
+SRC=src
+PY=python3
+
 all:
 	echo making DCPAutomate project
 
 test:
 	clear
-	src/script.sh
+	$(SRC)/script.sh
+
+clean:
+	clear

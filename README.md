@@ -29,7 +29,7 @@ machinery, I want to automate some of the above steps by adding some skeleton co
 # Project Requirements
 A successfully written program will:
 1. Prompt me to get how many problems I want to solve today.
-2. Access today's DCP.
+2. Access today's DCP along with any additional ones based on number of problems.
 3. Parse the DCP email to extract the problem.
 4. Create a text file for algorithm design.
 5. Prompt me to get which languages I want to use to write an implementation and generate development files based on that response.
