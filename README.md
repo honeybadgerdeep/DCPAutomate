@@ -54,3 +54,4 @@ In order to complete this project, here is the suggested flow:
 - Elected to using SQL for database management, the structure is pretty simple and a table format should make for easy data entry and access.
 - A Promise mechanism must be utilized to pull the sheer of volume of emails from Gmail without stalling.
 5. Putting problem storage and querying on hold to finish up the generation of key dependenacy files such as: src/, test/, and bin/. Additionally, need to update Google Access Token, which has expired.
+6. *Python implementation support is now available. Automated testing support is not yet available.* 
