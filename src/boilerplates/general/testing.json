@@ -1,0 +1,38 @@
+{
+    "problemDescription": {
+        "problemNumber": 0,
+        "problemSource": "problem source",
+        "solutions": [
+            {
+                "paths": [
+                    "srcFile1.ext",
+                    "srcFile2.ext",
+                    "srcFile3.ext"
+                ],
+                "functions": [
+                    "fn1",
+                    "fn2",
+                    "fn3"
+                ]
+            }
+        ]
+    },
+    "tests": [
+        {
+            "testName": "NameOfTest",
+            "signature": "functionSignature",
+            "specifiedFiles": "all",
+            "args": [],
+            "expected_format": "string/array/constant",
+            "expected": "expected output"
+        },
+        {
+            "testName": "NameOfTest",
+            "signature": "functionSignature",
+            "specifiedFiles": "all",
+            "args": [],
+            "expected_format": "string/array/constant",
+            "expected": "expected output"
+        }
+    ]
+}
